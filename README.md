@@ -27,3 +27,6 @@ west
 
 Installation librairies :
 Requirements
+
+# Presentation Streamlit :
+https://share.streamlit.io/sarahdk59/recommandationfilms/main/recommandation_films.py
